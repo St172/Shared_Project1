@@ -14,7 +14,7 @@ namespace Shared_Project1
             string b = "fuck you alex lol";
             Console.WriteLine(a);
             Console.WriteLine(b);
-            Console.ReadKey();
+            
         }
     }
 }
