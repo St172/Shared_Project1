@@ -10,6 +10,11 @@ namespace Shared_Project1
     {
         static void Main(string[] args)
         {
+            string a = "hello lol";
+            string b = "fuck you alex lol";
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.ReadKey();
         }
     }
 }
